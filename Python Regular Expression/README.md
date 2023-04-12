@@ -10,7 +10,7 @@ This can make cleaning and working with text-based data sets much easier, saving
 Clone the project
 
 ```bash
-  git clone https://github.com/rkadey/Data-Analysis-Projects.git
+  git clone https://github.com/rkadey/Data-Analysis-Projects/Python%20Regular%20Expression.git
 ```
 
 Go to the project directory
