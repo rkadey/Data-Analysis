@@ -7,11 +7,10 @@ Regular expressions (regex) are essentially text patterns that you can use to au
 This can make cleaning and working with text-based data sets much easier, saving you the trouble of having to search through mountains of text by hand.
 
 # Run Locally
-
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rkadey/Data-Analysis-Projects.git
 ```
 
 Go to the project directory
